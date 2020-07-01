@@ -6,6 +6,7 @@ Deep Q-Network, Dueling Double DQN, Proximal Policy Optimization and Deep Determ
 
 
 
+
 Environments:
 
 OpenAI’s continuous environments from Atari and PyBullet.
